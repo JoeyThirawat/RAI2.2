@@ -1,0 +1,17 @@
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\bin\Debug\net6.0-windows\DemoVisual1.exe
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\bin\Debug\net6.0-windows\DemoVisual1.deps.json
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\bin\Debug\net6.0-windows\DemoVisual1.runtimeconfig.json
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\bin\Debug\net6.0-windows\DemoVisual1.dll
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\bin\Debug\net6.0-windows\DemoVisual1.pdb
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.csproj.AssemblyReference.cache
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.Form1.resources
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.csproj.GenerateResource.cache
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.AssemblyInfoInputs.cache
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.AssemblyInfo.cs
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.csproj.CoreCompileInputs.cache
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.dll
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\refint\DemoVisual1.dll
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.pdb
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\DemoVisual1.genruntimeconfig.cache
+D:\OneDrive - KMITL\College Works\RAI-2.2\03-Computer Visions\WinFormsApp\DemoVisual1\DemoVisual1\obj\Debug\net6.0-windows\ref\DemoVisual1.dll
